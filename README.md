@@ -9,7 +9,7 @@ I gave a clear explanation in my report, please pay attantion.
 
 Some details in Wiki
 
-# Team: Ravshan Khamidov and Daniiar Arkabaev
+# Developed by: Nursultan Asan uulu
 
 # About TourGuideApp
 
